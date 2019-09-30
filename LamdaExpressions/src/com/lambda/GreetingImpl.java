@@ -1,4 +1,4 @@
-package com.greet;
+package com.lambda;
 
 public class GreetingImpl implements Greeting {
 

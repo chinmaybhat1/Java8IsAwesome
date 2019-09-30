@@ -1,4 +1,4 @@
-package com.greet;
+package com.lambda;
 
 public interface Greeting {
 
